@@ -111,17 +111,17 @@ const djj_b2_lab = document.querySelectorAll('.djj_b2_lab')
 const djj_b3_lab = document.querySelectorAll('.djj_b3_lab')
 
 djj_b1_lab.forEach(lab => {
-    lab.innerText = 'DJJ SP:B1 Lab 1201'
+    lab.innerText = 'DJJ SP:B1 Lab'
     lab.href = 'https://meet.google.com/azd-rpcy-stn'
 })
 
 djj_b2_lab.forEach(lab => {
-    lab.innerText = 'DJJ SP:B2 Lab 1201'
+    lab.innerText = 'DJJ SP:B2 Lab'
     lab.href = 'https://meet.google.com/azd-rpcy-stn'
 })
 
 djj_b3_lab.forEach(lab => {
-    lab.innerText = 'DJJ SP:B3 Lab 1201'
+    lab.innerText = 'DJJ SP:B3 Lab'
     lab.href = 'https://meet.google.com/azd-rpcy-stn'
 })
 
@@ -132,17 +132,17 @@ const prk_b2_lab = document.querySelectorAll('.prk_b2_lab')
 const prk_b3_lab = document.querySelectorAll('.prk_b3_lab')
 
 prk_b1_lab.forEach(lab => {
-    lab.innerText = 'PRK WTACC:B1 Lab 1202'
+    lab.innerText = 'PRK WTACC:B1 Lab'
     lab.href = 'https://meet.google.com/uer-fwau-ywy'
 })
 
 prk_b2_lab.forEach(lab => {
-    lab.innerText = 'PRK WTACC:B2 Lab 1202'
+    lab.innerText = 'PRK WTACC:B2 Lab'
     lab.href = 'https://meet.google.com/uer-fwau-ywy'
 })
 
 prk_b3_lab.forEach(lab => {
-    lab.innerText = 'PRK WTACC:B3 Lab 1202'
+    lab.innerText = 'PRK WTACC:B3 Lab'
     lab.href = 'https://meet.google.com/uer-fwau-ywy'
 })
 
@@ -153,17 +153,17 @@ const pab_b2_lab = document.querySelectorAll('.pab_b2_lab')
 const pab_b3_lab = document.querySelectorAll('.pab_b3_lab')
 
 pab_b1_lab.forEach(lab => {
-    lab.innerText = 'PAB DAAOA:B1 Lab 1316A'
+    lab.innerText = 'PAB DAAOA:B1 Lab'
     lab.href = 'https://meet.google.com/apr-rqcy-wnt'
 })
 
 pab_b2_lab.forEach(lab => {
-    lab.innerText = 'PAB DAAOA:B2 Lab 1316A'
+    lab.innerText = 'PAB DAAOA:B2 Lab'
     lab.href = 'https://meet.google.com/apr-rqcy-wnt'
 })
 
 pab_b3_lab.forEach(lab => {
-    lab.innerText = 'PAB DAAOA:B3 Lab 1316A'
+    lab.innerText = 'PAB DAAOA:B3 Lab'
     lab.href = 'https://meet.google.com/apr-rqcy-wnt'
 })
 
@@ -174,17 +174,17 @@ const ppg_b2_lab = document.querySelectorAll('.ppg_b2_lab')
 const ppg_b3_lab = document.querySelectorAll('.ppg_b3_lab')
 
 ppg_b1_lab.forEach(lab => {
-    lab.innerText = 'PPG MLADL:B1 Lab 1308'
+    lab.innerText = 'PPG MLADL:B1 Lab'
     lab.href = 'http://meet.google.com/pjc-dckf-vka'
 })
 
 ppg_b2_lab.forEach(lab => {
-    lab.innerText = 'PPG MLADL:B2 Lab 1308'
+    lab.innerText = 'PPG MLADL:B2 Lab'
     lab.href = 'http://meet.google.com/pjc-dckf-vka'
 })
 
 ppg_b3_lab.forEach(lab => {
-    lab.innerText = 'PPG MLADL:B3 Lab 1308'
+    lab.innerText = 'PPG MLADL:B3 Lab'
     lab.href = 'http://meet.google.com/pjc-dckf-vka'
 })
 
@@ -195,16 +195,16 @@ const ars_b2_lab = document.querySelectorAll('.ars_b2_lab')
 const ars_b3_lab = document.querySelectorAll('.ars_b3_lab')
 
 ars_b1_lab.forEach(lab => {
-    lab.innerText = 'ARS WTACC:B2 Lab 1202'
+    lab.innerText = 'ARS WTACC:B2 Lab'
     lab.href = 'https://meet.google.com/cez-ztbd-vdn'
 })
 
 ars_b2_lab.forEach(lab => {
-    lab.innerText = 'ARS WTACC:B2 Lab 1202'
+    lab.innerText = 'ARS WTACC:B2 Lab'
     lab.href = 'https://meet.google.com/cez-ztbd-vdn'
 })
 
 ars_b3_lab.forEach(lab => {
-    lab.innerText = 'ARS WTACC:B3 Lab 1202'
+    lab.innerText = 'ARS WTACC:B3 Lab'
     lab.href = 'https://meet.google.com/cez-ztbd-vdn'
 })

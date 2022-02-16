@@ -2,28 +2,28 @@ const Pab = document.querySelectorAll('.pab1')
 
 Pab.forEach(a_head => {
     a_head.innerText = "PAB DAAOA Theory"
-    a_head.href = "http://meet.google.com/pjc-dckf-vka"
+    a_head.href = "https://meet.google.com/apr-rqcy-wnt"
 })
 
 const Pab_b1_tut = document.querySelectorAll('.pab_b1_tut')
 
 Pab_b1_tut.forEach(a_head => {
     a_head.innerText = "PAB DAAOA:B1 Tutorial"
-    a_head.href = "http://meet.google.com/pjc-dckf-vka"
+    a_head.href = "https://meet.google.com/apr-rqcy-wnt"
 })
 
 const Pab_b2_tut = document.querySelectorAll('.pab_b2_tut')
 
 Pab_b2_tut.forEach(a_head => {
     a_head.innerText = "PAB DAAOA:B2 Tutorial"
-    a_head.href = "http://meet.google.com/pjc-dckf-vka"
+    a_head.href = "https://meet.google.com/apr-rqcy-wnt"
 })
 
 const Pab_b3_tut = document.querySelectorAll('.pab_b3_tut')
 
 Pab_b3_tut.forEach(a_head => {
     a_head.innerText = "PAB DAAOA:B3 Tutorial"
-    a_head.href = "http://meet.google.com/pjc-dckf-vka"
+    a_head.href = "https://meet.google.com/apr-rqcy-wnt"
 })
 
 //////////////////////////////

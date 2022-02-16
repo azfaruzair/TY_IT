@@ -1,1 +1,30 @@
 
+<style>
+        #day {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        #SYDA td,
+        #SYDA th {
+            border: 1px solid #ddd;
+            padding: 6px;
+        }
+
+        #SYDA tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        #SYDA tr:hover {
+            background-color: #ddd;
+        }
+
+        #SYDA th {
+            padding-top: 10px;
+            padding-bottom: 10px;
+            text-align: left;
+            background-color: #04AA6D;
+            color: white;
+        }
+    </style>

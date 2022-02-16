@@ -1,34 +1,4 @@
-*{
-    font-family: sans-serif;
-}
-
-
-body{
-    margin: 30px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    background-color: #48cae4;
-   
-}
-
-@media (max-width: 600px) {
-    body{
-        margin: 0 !important;
-    }
-    
-}
-
 a{
-    font-size: 12px;
+    font-size: 15px;
     
-}
-
-table{
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    margin: 10px 0 50px 0;
-    background-color: #fff;
-}
-
-h1{
-    color: #f8edeb;
 }

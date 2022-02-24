@@ -21,8 +21,6 @@ daysOfTheWeek.forEach((eachDay, idx) => {
         eachDay[i].classList.add('highlight')
     }
 })
-
-
-
-
-
+const highlighted = document.querySelectorAll('.highlight a')
+highlighted.forEach(eachAnchor => eachAnchor.classList.add('changeStyle'))
+console.log(highlighted)

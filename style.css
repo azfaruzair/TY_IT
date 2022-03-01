@@ -110,7 +110,7 @@ h4{
 } */
 
 .changeStyle{
-    color: #f7f7f7;
+    color: #e5383b;
     font-weight: 600;
     animation: scaleText 1s infinite linear forwards;
 }
